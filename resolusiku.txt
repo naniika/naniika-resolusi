@@ -1,4 +1,6 @@
 //========== resolusiku ==========\\
 
-1. Belajar Git dan GitHub
-2. Belajar Laravel
+1.  Belajar Git dan GitHub
+2.  Belajar Javascript
+3.  Belajar Codeigniter
+4.  Belajar Laravel
